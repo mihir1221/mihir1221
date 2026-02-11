@@ -42,6 +42,17 @@ Git and GitHub
 [![](https://visitcount.itsvg.in/api?id=mihir1221&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">Thanks for Visiting my GitHub Profile!</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihir1221&theme=github-dark&hide_border=true&area=true">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mihir1221&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views"/>
+</p>
 
 Thanks for visiting my GitHub profile.
 
