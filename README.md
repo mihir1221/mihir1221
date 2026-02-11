@@ -1,24 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mihir%20chatting%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiding%20software%20engineer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mihir%20Chatterjee&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20🚀%20|%20Computer%20Applications%20|%20Coding%20|%20Software%20Fundamentals&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=mihir-chatterjee">
-    
-  </a>
+
 </p>
 
 
+
 ## About Me
-I am a cybersecurity and programming student focused on building real-world projects and strengthening my technical skills. I enjoy creating secure systems using Python and MySQL and continuously improving my knowledge in cybersecurity and development.
+💻 I’m a passionate cybersecurity and programming student focused on building real-world projects.
+
+🚀 Currently working on Python + MySQL based secure systems and improving my development skills.
+
+🤝 Open to collaborating on beginner-friendly open-source and security projects.
+
+📚 Currently learning Cybersecurity, Python, and Database Management Systems.
+
+💬 Ask me about Python projects, MySQL, GitHub, and basic security concepts.
+
+⚡ Fun fact: I love turning simple ideas into cool tech projects and making my GitHub look pro.
 
 ## Currently Working On
 Secure Bank Management System using Python and MySQL  
 Improving backend and security skills  
 
-## Currently Learning
-Cybersecurity  
-Python  
-MySQL  
-Git and GitHub  
+## 📚 Currently Learning
+
+* 🔐 Cybersecurity fundamentals & ethical hacking basics
+* 🐍 Python programming (projects + automation)
+* 🗄️ MySQL & Database Management Systems
+* 🛒 E-Commerce fundamentals
+* 🌐 GitHub, version control & open-source collaboration
+* 🛡️ Building secure and real-world project (soon...)
+
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihir1221&show_icons=true&theme=tokyonight)
