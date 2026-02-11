@@ -1,4 +1,11 @@
-# Mihir Chatterjee
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mihir%20chatting%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiding%20software%20engineer&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=mihir-chatterjee">
+    <img src="https://komarev.com/ghpvc/?username=mihir-chatterjee&label=Profile%20views&color=00FFFF&style=flat-square" alt="mihir-chatterjee's profile views" />
+  </a>
+</p>
+
 
 ## About Me
 I am a cybersecurity and programming student focused on building real-world projects and strengthening my technical skills. I enjoy creating secure systems using Python and MySQL and continuously improving my knowledge in cybersecurity and development.
