@@ -19,3 +19,24 @@
 [![](https://visitcount.itsvg.in/api?id=mihir1221&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Currently Learning
+Cybersecurity  
+Python  
+MySQL  
+Git and GitHub  
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihir1221&show_icons=true&theme=tokyonight)
+
+## Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mihir1221&theme=github-dark)
+
+## Streak Stats
+![GitHub streak](https://streak-stats.demolab.com?user=mihir1221&theme=tokyonight)
+
+## Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=mihir1221&color=brightgreen)
+
+Thanks for visiting my GitHub profile.
+
