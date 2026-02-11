@@ -33,8 +33,6 @@ Improving backend and security skills
 * 🛡️ Building secure and real-world project (soon...)
 
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihir1221&show_icons=true&theme=tokyonight)
 
 ## Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mihir1221&theme=github-dark)
@@ -60,7 +58,19 @@ Improving backend and security skills
 ---
 [![](https://visitcount.itsvg.in/api?id=mihir1221&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+
+
+
 <h2 align="center">Thanks for Visiting my GitHub Profile!</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
+
 -
 
