@@ -7,17 +7,17 @@
 
 
 ## About Me
-💻 I’m a passionate cybersecurity and programming student focused on building real-world projects.
+💻 I’m a programming student who enjoys building practical, real-world projects.
 
 🚀 Currently working on Python + MySQL based secure systems and improving my development skills.
 
 🤝 Open to collaborating on beginner-friendly open-source and security projects.
 
-📚 Currently learning Cybersecurity, Python, and Database Management Systems.
+📚 Currently learning C, Python, and Database Management Systems.
 
-💬 Ask me about Python projects, MySQL, GitHub, and basic security concepts.
+💬 Feel free to ask me
 
-⚡ Fun fact: I love turning simple ideas into cool tech projects and making my GitHub look pro.
+⚡ Fun fact: I enjoy turning simple ideas into useful tech projects and keeping my GitHub clean and professional.
 
 ## Currently Working On
 Secure Bank Management System using Python and MySQL  
